@@ -1,0 +1,16 @@
+C:\Users\asuspc\Desktop\LabTest1\LabTest1\bin\Debug\LabTest1.exe.config
+C:\Users\asuspc\Desktop\LabTest1\LabTest1\bin\Debug\LabTest1.exe
+C:\Users\asuspc\Desktop\LabTest1\LabTest1\bin\Debug\LabTest1.pdb
+C:\Users\asuspc\Desktop\LabTest1\LabTest1\obj\Debug\LabTest1.csprojAssemblyReference.cache
+C:\Users\asuspc\Desktop\LabTest1\LabTest1\obj\Debug\LabTest1.showdata.resources
+C:\Users\asuspc\Desktop\LabTest1\LabTest1\obj\Debug\LabTest1.csproj.GenerateResource.cache
+C:\Users\asuspc\Desktop\LabTest1\LabTest1\obj\Debug\LabTest1.exe
+C:\Users\asuspc\Desktop\LabTest1\LabTest1\obj\Debug\LabTest1.pdb
+D:\Seneca Study\SEM 6\PRG655\Player Ranking\LabTest1\bin\Debug\LabTest1.exe.config
+D:\Seneca Study\SEM 6\PRG655\Player Ranking\LabTest1\bin\Debug\LabTest1.exe
+D:\Seneca Study\SEM 6\PRG655\Player Ranking\LabTest1\bin\Debug\LabTest1.pdb
+D:\Seneca Study\SEM 6\PRG655\Player Ranking\LabTest1\obj\Debug\LabTest1.csprojAssemblyReference.cache
+D:\Seneca Study\SEM 6\PRG655\Player Ranking\LabTest1\obj\Debug\LabTest1.showdata.resources
+D:\Seneca Study\SEM 6\PRG655\Player Ranking\LabTest1\obj\Debug\LabTest1.csproj.GenerateResource.cache
+D:\Seneca Study\SEM 6\PRG655\Player Ranking\LabTest1\obj\Debug\LabTest1.exe
+D:\Seneca Study\SEM 6\PRG655\Player Ranking\LabTest1\obj\Debug\LabTest1.pdb
